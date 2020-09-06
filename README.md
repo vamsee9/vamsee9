@@ -66,7 +66,6 @@ No Posts yet, Stay tune for my posts 😉
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Vamsee's Github Stats" src="https://github-readme-stats.vamsee9.vercel.app/api?username=vamsee9&show_icons=true&hide_border=true" />
 
