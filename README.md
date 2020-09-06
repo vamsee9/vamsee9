@@ -1,3 +1,5 @@
+- ![#f03c15](https://via.placeholder.com/15/1B1F23/000000?text=+) `#1B1F23` #1B1F23
+
 ### Hi there, I'm Vamsee Krishnaa - aka [4n0n5ur7][website] 👋
 
 [![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me)](https://vamsee.me)
