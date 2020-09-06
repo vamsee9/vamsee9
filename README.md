@@ -1,4 +1,5 @@
-### Hi there, I'm Vamsee Krishnaa - aka ["V"][website] 👋
+### Hi there, I'm Vamsee Krishnaa - aka ["V"][website] <img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/wave.gif" width="30px">
+
 
 [![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me)](https://vamsee.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/4n0n5urf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/4n0n5urf&screen_name=4n0n5urf)
