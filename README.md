@@ -1,4 +1,4 @@
-### Hi there, I'm Vamsee Krishnaa - aka ["V"][website] <img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/wave.gif" width="30px">
+### Hi there, I'm Vamsee Krishnaa - aka ["V"][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 [![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me)](https://vamsee.me)
