@@ -56,7 +56,7 @@
 No Posts yet, Stay tune for my posts 😉
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://vamsee.me)
+➡️ [more blog posts... @ vamsee.me😉](https://vamsee.me)
 
 ---
 
