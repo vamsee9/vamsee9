@@ -60,7 +60,6 @@ No Posts yet, Stay tune for my posts 😉
 
 ---
 
-<details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -70,8 +69,6 @@ No Posts yet, Stay tune for my posts 😉
 4. ❗️ Opened issue [#131](https://github.com//jhansireddy/AndroidScannerDemo/issues/131) in [jhansireddy/AndroidScannerDemo](https://github.com//jhansireddy/AndroidScannerDemo)
 5. 🎉 Merged PR [#1](https://github.com//vamsee9/clearscannner/pull/1) in [vamsee9/clearscannner](https://github.com//vamsee9/clearscannner)
 <!--END_SECTION:activity-->
-
-</details>
  
   ![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact)
 
