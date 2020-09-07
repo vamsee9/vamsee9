@@ -64,6 +64,11 @@ No Posts yet, Stay tune for my posts 😉
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//vamsee9/github-readme-stats/pull/1) in [vamsee9/github-readme-stats](https://github.com//vamsee9/github-readme-stats)
+2. 💪 Opened PR [#1](https://github.com//vamsee9/github-readme-stats/pull/1) in [vamsee9/github-readme-stats](https://github.com//vamsee9/github-readme-stats)
+3. 🗣 Commented on [#131](https://github.com//jhansireddy/AndroidScannerDemo/issues/131) in [jhansireddy/AndroidScannerDemo](https://github.com//jhansireddy/AndroidScannerDemo)
+4. ❗️ Opened issue [#131](https://github.com//jhansireddy/AndroidScannerDemo/issues/131) in [jhansireddy/AndroidScannerDemo](https://github.com//jhansireddy/AndroidScannerDemo)
+5. 🎉 Merged PR [#1](https://github.com//vamsee9/clearscannner/pull/1) in [vamsee9/clearscannner](https://github.com//vamsee9/clearscannner)
 <!--END_SECTION:activity-->
 
 </details>
