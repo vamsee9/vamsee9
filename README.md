@@ -56,7 +56,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...@vamsee.me😉](https://vamsee.me)
+➡️ [more blog posts...@vamsee.me😉](https://vamsee.me/blog)
 
 ---
 
