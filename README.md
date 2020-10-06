@@ -63,11 +63,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/vamsee9/github-readme-stats/pull/3) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-2. 💪 Opened PR [#3](https://github.com/vamsee9/github-readme-stats/pull/3) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-3. 🎉 Merged PR [#2](https://github.com/vamsee9/novatorem/pull/2) in [vamsee9/novatorem](https://github.com/vamsee9/novatorem)
-4. 💪 Opened PR [#2](https://github.com/vamsee9/novatorem/pull/2) in [vamsee9/novatorem](https://github.com/vamsee9/novatorem)
-5. 🗣 Commented on [#841](https://github.com/felixse/FluentTerminal/issues/841) in [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal)
+1. 🎉 Merged PR [#4](https://github.com/vamsee9/github-readme-stats/pull/4) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+2. 💪 Opened PR [#4](https://github.com/vamsee9/github-readme-stats/pull/4) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+3. 🎉 Merged PR [#3](https://github.com/vamsee9/github-readme-stats/pull/3) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+4. 💪 Opened PR [#3](https://github.com/vamsee9/github-readme-stats/pull/3) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+5. 🎉 Merged PR [#2](https://github.com/vamsee9/novatorem/pull/2) in [vamsee9/novatorem](https://github.com/vamsee9/novatorem)
 <!--END_SECTION:activity-->
  
   ![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)
