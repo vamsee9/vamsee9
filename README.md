@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vamsee9/opencv/pull/1) in [vamsee9/opencv](https://github.com/vamsee9/opencv)
-2. 💪 Opened PR [#1](https://github.com/vamsee9/opencv/pull/1) in [vamsee9/opencv](https://github.com/vamsee9/opencv)
-3. 🎉 Merged PR [#5](https://github.com/vamsee9/github-readme-stats/pull/5) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-4. 💪 Opened PR [#5](https://github.com/vamsee9/github-readme-stats/pull/5) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-5. 🎉 Merged PR [#1](https://github.com/vamsee9/ar-cptext/pull/1) in [vamsee9/ar-cptext](https://github.com/vamsee9/ar-cptext)
+1. 🎉 Merged PR [#6](https://github.com/vamsee9/github-readme-stats/pull/6) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+2. 💪 Opened PR [#6](https://github.com/vamsee9/github-readme-stats/pull/6) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+3. 🎉 Merged PR [#1](https://github.com/vamsee9/opencv/pull/1) in [vamsee9/opencv](https://github.com/vamsee9/opencv)
+4. 💪 Opened PR [#1](https://github.com/vamsee9/opencv/pull/1) in [vamsee9/opencv](https://github.com/vamsee9/opencv)
+5. 🎉 Merged PR [#5](https://github.com/vamsee9/github-readme-stats/pull/5) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
 <!--END_SECTION:activity-->
  
   ![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)
