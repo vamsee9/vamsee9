@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/vamsee9/github-readme-stats/pull/7) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-2. 💪 Opened PR [#7](https://github.com/vamsee9/github-readme-stats/pull/7) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-3. 🗣 Commented on [#31556](https://github.com/flutter/flutter/issues/31556) in [flutter/flutter](https://github.com/flutter/flutter)
-4. ❗️ Opened issue [#96](https://github.com/kisstkondoros/gutter-preview/issues/96) in [kisstkondoros/gutter-preview](https://github.com/kisstkondoros/gutter-preview)
-5. 🎉 Merged PR [#6](https://github.com/vamsee9/github-readme-stats/pull/6) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+1. ❗️ Closed issue [#121](https://github.com/microsoft/vscode-java-installer/issues/121) in [microsoft/vscode-java-installer](https://github.com/microsoft/vscode-java-installer)
+2. ❗️ Opened issue [#121](https://github.com/microsoft/vscode-java-installer/issues/121) in [microsoft/vscode-java-installer](https://github.com/microsoft/vscode-java-installer)
+3. 🎉 Merged PR [#7](https://github.com/vamsee9/github-readme-stats/pull/7) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+4. 💪 Opened PR [#7](https://github.com/vamsee9/github-readme-stats/pull/7) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+5. 🗣 Commented on [#31556](https://github.com/flutter/flutter/issues/31556) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
  
   ![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)
