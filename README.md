@@ -68,11 +68,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/vamsee9/github-readme-stats/pull/9) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-2. 💪 Opened PR [#9](https://github.com/vamsee9/github-readme-stats/pull/9) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-3. 🎉 Merged PR [#8](https://github.com/vamsee9/github-readme-stats/pull/8) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-4. 💪 Opened PR [#8](https://github.com/vamsee9/github-readme-stats/pull/8) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-5. ❗️ Closed issue [#121](https://github.com/microsoft/vscode-java-installer/issues/121) in [microsoft/vscode-java-installer](https://github.com/microsoft/vscode-java-installer)
+1. 🗣 Commented on [#2359](https://github.com/electron-userland/electron-builder/issues/2359) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+2. 🎉 Merged PR [#9](https://github.com/vamsee9/github-readme-stats/pull/9) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+3. 💪 Opened PR [#9](https://github.com/vamsee9/github-readme-stats/pull/9) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+4. 🎉 Merged PR [#8](https://github.com/vamsee9/github-readme-stats/pull/8) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+5. 💪 Opened PR [#8](https://github.com/vamsee9/github-readme-stats/pull/8) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
