@@ -68,11 +68,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5491](https://github.com/electron-userland/electron-builder/issues/5491) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-2. 🗣 Commented on [#5491](https://github.com/electron-userland/electron-builder/issues/5491) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-3. ❗️ Opened issue [#5491](https://github.com/electron-userland/electron-builder/issues/5491) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-4. 🗣 Commented on [#2359](https://github.com/electron-userland/electron-builder/issues/2359) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-5. 🎉 Merged PR [#9](https://github.com/vamsee9/github-readme-stats/pull/9) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+1. ❌ Closed PR [#3](https://github.com/vamsee9/CGOL/pull/3) in [vamsee9/CGOL](https://github.com/vamsee9/CGOL)
+2. 💪 Opened PR [#3](https://github.com/vamsee9/CGOL/pull/3) in [vamsee9/CGOL](https://github.com/vamsee9/CGOL)
+3. ❌ Closed PR [#2](https://github.com/vamsee9/CGOL/pull/2) in [vamsee9/CGOL](https://github.com/vamsee9/CGOL)
+4. 💪 Opened PR [#2](https://github.com/vamsee9/CGOL/pull/2) in [vamsee9/CGOL](https://github.com/vamsee9/CGOL)
+5. ❗️ Closed issue [#5491](https://github.com/electron-userland/electron-builder/issues/5491) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
