@@ -7,7 +7,7 @@
 
 ## I'm Open Source Developer, and Student!
 
-- 🔭 I’m currently working on a [Android App Development](https://github.com/OpenNxt)
+- 🔭 I’m currently working on a [React js, Flutter](https://github.com/OpenNxt)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
