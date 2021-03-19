@@ -68,11 +68,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/vamsee9/github-readme-stats/pull/11) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-2. 💪 Opened PR [#11](https://github.com/vamsee9/github-readme-stats/pull/11) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-3. 🎉 Merged PR [#10](https://github.com/vamsee9/github-readme-stats/pull/10) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-4. 💪 Opened PR [#10](https://github.com/vamsee9/github-readme-stats/pull/10) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-5. ❌ Closed PR [#3](https://github.com/vamsee9/CGOL/pull/3) in [vamsee9/CGOL](https://github.com/vamsee9/CGOL)
+1. 🗣 Commented on [#141](https://github.com/jhansireddy/AndroidScannerDemo/issues/141) in [jhansireddy/AndroidScannerDemo](https://github.com/jhansireddy/AndroidScannerDemo)
+2. 🎉 Merged PR [#11](https://github.com/vamsee9/github-readme-stats/pull/11) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+3. 💪 Opened PR [#11](https://github.com/vamsee9/github-readme-stats/pull/11) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+4. 🎉 Merged PR [#10](https://github.com/vamsee9/github-readme-stats/pull/10) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+5. 💪 Opened PR [#10](https://github.com/vamsee9/github-readme-stats/pull/10) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
