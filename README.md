@@ -68,11 +68,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/jhansireddy/AndroidScannerDemo/issues/141) in [jhansireddy/AndroidScannerDemo](https://github.com/jhansireddy/AndroidScannerDemo)
-2. 🎉 Merged PR [#11](https://github.com/vamsee9/github-readme-stats/pull/11) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-3. 💪 Opened PR [#11](https://github.com/vamsee9/github-readme-stats/pull/11) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-4. 🎉 Merged PR [#10](https://github.com/vamsee9/github-readme-stats/pull/10) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
-5. 💪 Opened PR [#10](https://github.com/vamsee9/github-readme-stats/pull/10) in [vamsee9/github-readme-stats](https://github.com/vamsee9/github-readme-stats)
+1. 🎉 Merged PR [#2](https://github.com/vamsee9/FlaskLoginApp/pull/2) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
+2. 💪 Opened PR [#2](https://github.com/vamsee9/FlaskLoginApp/pull/2) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
+3. 🎉 Merged PR [#1](https://github.com/vamsee9/FlaskLoginApp/pull/1) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
+4. 💪 Opened PR [#1](https://github.com/vamsee9/FlaskLoginApp/pull/1) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
+5. 🗣 Commented on [#141](https://github.com/jhansireddy/AndroidScannerDemo/issues/141) in [jhansireddy/AndroidScannerDemo](https://github.com/jhansireddy/AndroidScannerDemo)
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
