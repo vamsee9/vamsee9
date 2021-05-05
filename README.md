@@ -23,7 +23,7 @@
 [<i class="fab fa-telegram-plane"></i>][telegram]
 [<i class="fab fa-twitter"></i>][twitter]
 [<i class="fab fa-linkedin"></i>][linkedin]
-[<i class="fab fa-instagram"></i>][instagram]
+[<img src="icons/instagram-brands.svg" width="50" height="50" color="#ffffff">][instagram]
 
 <br />
 
