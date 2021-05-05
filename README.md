@@ -17,15 +17,6 @@
 [![Spotify](https://novatorem.vamsee9.vercel.app/api/spotify)](https://open.spotify.com/user/krishv9?si=IXR1l0EoSAa85aR6SRpflg)
 
 
-### Connect with me:
-
-🌐[website]
-[<i class="fab fa-telegram-plane"></i>][telegram]
-[<i class="fab fa-twitter"></i>][twitter]
-[<i class="fab fa-linkedin"></i>][linkedin]
-[<img src="icons/instagram-brands.svg" width="50" height="50" color="#ffffff">][instagram]
-
-<br />
 
 ### Most time working on programming Languages
 
