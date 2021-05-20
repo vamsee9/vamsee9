@@ -67,7 +67,9 @@
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
-  [![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact)](https://github.com/vamsee9/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsee9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Vamsee's Github Stats" src="https://github-readme-stats.vamsee9.vercel.app/api?username=vamsee9&show_icons=true&hide_border=true" />
