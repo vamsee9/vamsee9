@@ -72,7 +72,8 @@
 
 
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Vamsee's Github Stats" src="https://github-readme-stats.vamsee9.vercel.app/api?username=vamsee9&show_icons=true&hide_border=true" />
+  ![vamsee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsee9&show_icons=true&theme=radical)
+
 
 
 [website]: https://vamsee.me
