@@ -72,7 +72,7 @@
 
 
   <summary>:zap: Github Stats</summary>
-  ![vamsee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsee9&show_icons=true&theme=radical)
+  [![vamsee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsee9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
