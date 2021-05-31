@@ -59,11 +59,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jgbijlsma/mern-auth-template-tutorial/issues/1) in [jgbijlsma/mern-auth-template-tutorial](https://github.com/jgbijlsma/mern-auth-template-tutorial)
-2. 🎉 Merged PR [#2](https://github.com/vamsee9/FlaskLoginApp/pull/2) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
-3. 💪 Opened PR [#2](https://github.com/vamsee9/FlaskLoginApp/pull/2) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
-4. 🎉 Merged PR [#1](https://github.com/vamsee9/FlaskLoginApp/pull/1) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
-5. 💪 Opened PR [#1](https://github.com/vamsee9/FlaskLoginApp/pull/1) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
+1. ❗️ Closed issue [#1](https://github.com/jgbijlsma/mern-auth-template-tutorial/issues/1) in [jgbijlsma/mern-auth-template-tutorial](https://github.com/jgbijlsma/mern-auth-template-tutorial)
+2. 🗣 Commented on [#1](https://github.com/jgbijlsma/mern-auth-template-tutorial/issues/1) in [jgbijlsma/mern-auth-template-tutorial](https://github.com/jgbijlsma/mern-auth-template-tutorial)
+3. ❗️ Opened issue [#1](https://github.com/jgbijlsma/mern-auth-template-tutorial/issues/1) in [jgbijlsma/mern-auth-template-tutorial](https://github.com/jgbijlsma/mern-auth-template-tutorial)
+4. 🎉 Merged PR [#2](https://github.com/vamsee9/FlaskLoginApp/pull/2) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
+5. 💪 Opened PR [#2](https://github.com/vamsee9/FlaskLoginApp/pull/2) in [vamsee9/FlaskLoginApp](https://github.com/vamsee9/FlaskLoginApp)
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
