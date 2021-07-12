@@ -3,7 +3,6 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <a href="https://github.com/vamsee9"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=vamsee9&style=flat&color=blueviolet"/></a>
 [![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me&style=flat)](https://vamsee.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/4n0n5urf?color=1DA1F2&label=Followers&logo=twitter&logoColor=white&style=flat)](https://twitter.com/intent/follow?original_referer=https://github.com/4n0n5urf&screen_name=4n0n5urf)
 
 ## I'm Open Source Developer, and Student!
 
