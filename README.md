@@ -26,11 +26,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Wahid551/Flutter_Food_App_with_Firebase/issues/1) in [Wahid551/Flutter_Food_App_with_Firebase](https://github.com/Wahid551/Flutter_Food_App_with_Firebase)
-2. ❗️ Opened issue [#1](https://github.com/Wahid551/Flutter_Food_App_with_Firebase/issues/1) in [Wahid551/Flutter_Food_App_with_Firebase](https://github.com/Wahid551/Flutter_Food_App_with_Firebase)
-3. ❗️ Opened issue [#1](https://github.com/AdityaAde/food_app/issues/1) in [AdityaAde/food_app](https://github.com/AdityaAde/food_app)
-4. ❗️ Opened issue [#1](https://github.com/FlutterAppDeveloper915/Food-App-With-Admin-Panel/issues/1) in [FlutterAppDeveloper915/Food-App-With-Admin-Panel](https://github.com/FlutterAppDeveloper915/Food-App-With-Admin-Panel)
-5. 🗣 Commented on [#1](https://github.com/georgexx009/user-auth-and-CRUD-app-MERN-boilerplate/issues/1) in [georgexx009/user-auth-and-CRUD-app-MERN-boilerplate](https://github.com/georgexx009/user-auth-and-CRUD-app-MERN-boilerplate)
+1. 🗣 Commented on [#3](https://github.com/harshit2106/Flutter-Firebase-sign-in/issues/3) in [harshit2106/Flutter-Firebase-sign-in](https://github.com/harshit2106/Flutter-Firebase-sign-in)
+2. 🗣 Commented on [#2](https://github.com/harshit2106/Flutter-Firebase-sign-in/issues/2) in [harshit2106/Flutter-Firebase-sign-in](https://github.com/harshit2106/Flutter-Firebase-sign-in)
+3. 🗣 Commented on [#1](https://github.com/sujanbhattaraiofficial/firebase_auth/issues/1) in [sujanbhattaraiofficial/firebase_auth](https://github.com/sujanbhattaraiofficial/firebase_auth)
+4. 🗣 Commented on [#1](https://github.com/Wahid551/Flutter_Food_App_with_Firebase/issues/1) in [Wahid551/Flutter_Food_App_with_Firebase](https://github.com/Wahid551/Flutter_Food_App_with_Firebase)
+5. ❗️ Opened issue [#1](https://github.com/Wahid551/Flutter_Food_App_with_Firebase/issues/1) in [Wahid551/Flutter_Food_App_with_Firebase](https://github.com/Wahid551/Flutter_Food_App_with_Firebase)
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
