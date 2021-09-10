@@ -2,7 +2,7 @@
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <a href="https://github.com/vamsee9"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=vamsee9&style=flat&color=blueviolet"/></a>
-[![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me&style=flat)](https://vamsee.me)
+<!-- [![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me&style=flat)](https://vamsee.me) -->
 
 ## I'm Open Source Developer, and Student!
 
