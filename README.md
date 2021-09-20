@@ -26,11 +26,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/desi-programmer/flutter_auths/issues/1) in [desi-programmer/flutter_auths](https://github.com/desi-programmer/flutter_auths)
-2. 🗣 Commented on [#22](https://github.com/bazrafkan/google_place/issues/22) in [bazrafkan/google_place](https://github.com/bazrafkan/google_place)
-3. 🗣 Commented on [#3](https://github.com/harshit2106/Flutter-Firebase-sign-in/issues/3) in [harshit2106/Flutter-Firebase-sign-in](https://github.com/harshit2106/Flutter-Firebase-sign-in)
-4. 🗣 Commented on [#2](https://github.com/harshit2106/Flutter-Firebase-sign-in/issues/2) in [harshit2106/Flutter-Firebase-sign-in](https://github.com/harshit2106/Flutter-Firebase-sign-in)
-5. 🗣 Commented on [#1](https://github.com/sujanbhattaraiofficial/firebase_auth/issues/1) in [sujanbhattaraiofficial/firebase_auth](https://github.com/sujanbhattaraiofficial/firebase_auth)
+1. ❗️ Opened issue [#140](https://github.com/leoafarias/sidekick/issues/140) in [leoafarias/sidekick](https://github.com/leoafarias/sidekick)
+2. 🗣 Commented on [#1](https://github.com/desi-programmer/flutter_auths/issues/1) in [desi-programmer/flutter_auths](https://github.com/desi-programmer/flutter_auths)
+3. 🗣 Commented on [#22](https://github.com/bazrafkan/google_place/issues/22) in [bazrafkan/google_place](https://github.com/bazrafkan/google_place)
+4. 🗣 Commented on [#3](https://github.com/harshit2106/Flutter-Firebase-sign-in/issues/3) in [harshit2106/Flutter-Firebase-sign-in](https://github.com/harshit2106/Flutter-Firebase-sign-in)
+5. 🗣 Commented on [#2](https://github.com/harshit2106/Flutter-Firebase-sign-in/issues/2) in [harshit2106/Flutter-Firebase-sign-in](https://github.com/harshit2106/Flutter-Firebase-sign-in)
 <!--END_SECTION:activity-->
  
   <!--![Top Langs](https://github-readme-stats.vamsee9.vercel.app/api/top-langs/?username=vamsee9&layout=compact&hide_border=true)-->
