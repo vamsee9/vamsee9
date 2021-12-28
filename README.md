@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a [React js, Flutter](https://github.com/OpenNxt)
 - 🌱 I’m currently mastering everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Coding girlfriend needed 😄
+- 🥅 2022 Goals : Develop flutter package 😄
 - ⚡ Unknown facts about me: I love and die-hard fan of Rockstar Games
 
 ### Spotify Playing 🎧
