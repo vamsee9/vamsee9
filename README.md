@@ -1,4 +1,4 @@
-### Hi there, I'm Vamsi Krishna Kari - <img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/smile.gif" width="50px">
+### Hi there, I'm Vamsi Krishna Kari <img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/smile.gif" width="50px">
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <a href="https://github.com/vamsee9"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=vamsee9&style=flat&color=blueviolet"/></a>
@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on a [React js, Flutter](https://github.com/OpenNxt)
 - 🌱 I’m currently mastering everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Digital concept Arts and play PC Games
+- 🥅 2022 Goals: Coding girlfriend needed 😄
+- ⚡ Unknown facts about me: I love and die-hard fan of Rockstar Games
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.vamsee9.vercel.app/api/spotify)](https://open.spotify.com/user/krishv9?si=IXR1l0EoSAa85aR6SRpflg)
