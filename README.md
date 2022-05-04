@@ -6,7 +6,7 @@
 
 ## I'm Open Source Developer, and Student!
 
-- 🔭 I’m currently working on a [React js, Flutter](https://github.com/OpenNxt)
+- 🔭 I’m currently working on a [React js, Flutter, Django, AWS](https://github.com/OpenNxt)
 - 🌱 I’m currently mastering everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals : Develop flutter package 😄
