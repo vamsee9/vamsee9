@@ -1,4 +1,4 @@
-### Hi there, I'm Vamsi Krishna Kari <img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/wave.gif" width="5px"><img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/smile.gif" width="5px">
+### Hi there, I'm Vamsi Krishna Kari <img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/wave.gif" width="0.5px"><img src="https://raw.githubusercontent.com/vamsee9/vamsee9/master/smile.gif" width="0.5px">
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <a href="https://github.com/vamsee9"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=vamsee9&style=flat&color=blueviolet"/></a>
