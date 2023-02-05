@@ -10,8 +10,7 @@
 - 🌱 I’m currently mastering everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals : Develop flutter package 😄
-- ⚡ Unknown facts about me: I love and die-hard fan of Rockstar Games
-
+- ⚡ Unknown facts about me: die-hard fan of Rockstar Games ❤️‍🔥
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.vamsee9.vercel.app/api/spotify)](https://open.spotify.com/user/krishv9?si=IXR1l0EoSAa85aR6SRpflg)
 
