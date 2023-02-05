@@ -6,11 +6,10 @@
 
 ## I'm Open Source Developer, and Student!
 
-- 🔭 I’m currently working on a [React js, Flutter, Django, AWS](https://github.com/OpenNxt)
+- 🔭 I’m currently working on a Vue js, Laminas, Docker, Cloud Computing
 - 🌱 I’m currently mastering everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals : Develop flutter package 😄
-- ⚡ Unknown facts about me: die-hard fan of Rockstar Games ❤️‍🔥
+- ⚡  facts about me: die-hard fan of Rockstar Games ❤️‍🔥
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.vamsee9.vercel.app/api/spotify)](https://open.spotify.com/user/krishv9?si=IXR1l0EoSAa85aR6SRpflg)
 
