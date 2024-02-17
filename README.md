@@ -4,12 +4,9 @@
   <a href="https://github.com/vamsee9"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=vamsee9&style=flat&color=blueviolet"/></a>
 <!-- [![Website](https://img.shields.io/website?label=vamsee.me&style=for-the-badge&url=https%3A%2F%2Fvamsee.me&style=flat)](https://vamsee.me) -->
 
-## I'm Open Source Developer, and Student!
+## I'm a Software Developer.
 
-- 🔭 I’m currently working on a Vue js, Laminas, Docker, Cloud Computing
-- 🌱 I’m currently mastering everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡  facts about me: die-hard fan of Rockstar Games ❤️‍🔥
+- 🔭 I’m currently See my commits below 👇
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.vamsee9.vercel.app/api/spotify)](https://open.spotify.com/user/krishv9?si=IXR1l0EoSAa85aR6SRpflg)
 
